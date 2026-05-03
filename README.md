@@ -18,7 +18,9 @@ Ce dépôt est public pour l’audit et la transparence (école et étudiants). 
 
 Les PDF ne sont pas inclus dans ce dépôt (licence et redistribution). Les détails pratiques sont dans `PDF_SOURCE.md`.
 
-L’idée de la “vérification reproductible”, c’est simple : une personne qui télécharge les mêmes PDF officiels, puis lance la commande de vérification, obtient les mêmes empreintes (SHA‑256) que celles stockées dans `provenance/checksums.json`. Ça permet de confirmer que les données ne sont pas “inventées à la main” dans le repo.
+L’idée de la “vérification reproductible”, c’est simple : une personne qui télécharge les mêmes PDF officiels, puis lance la commande de vérification, obtient les mêmes empreintes (SHA‑256) que celles stockées dans `provenance/checksums.json`. Ça permet de confirmer que les données affichées côté site découlent bien des horaires officiels, et pas d’un fichier JSON modifiable à la main dans le dépôt.
+
+Tu peux te demander si tout ça “doit” être sur GitHub. Pour cette partie précisément, oui et c’est courant dans les projets ouverts : on ne publie ni les PDF (droits et redistribution), ni des secrets ; on publie la méthode (scripts), la commande à lancer et un fichier de référence (`provenance/checksums.json`). L’auditeur ou l’école télécharge elle‑même les PDF depuis la source officielle, rejoue la même chaîne localement et compare. Le détail des chemins et des étapes est dans `PDF_SOURCE.md`.
 
 Commande :
 
@@ -56,7 +58,9 @@ This repository is public for audit and transparency (school and students). Prod
 
 PDFs are not included in this repository (licensing/redistribution). Practical details are in `PDF_SOURCE.md`.
 
-“Reproducible verification” means: if someone downloads the same official PDFs and runs the verification command, they get the same SHA‑256 fingerprints as the ones stored in `provenance/checksums.json`. That helps confirm the data wasn’t manually edited inside the repo.
+“Reproducible verification” means: if someone downloads the same official PDFs and runs the verification command, they get the same SHA‑256 fingerprints as the ones stored in `provenance/checksums.json`. That confirms the figures on the site trace back to the official schedules, rather than relying on JSON someone could silently edit in the repo.
+
+You might wonder whether this belongs on GitHub at all. For verification specifically, yes, and open projects often do exactly this: we do not publish the PDFs (licensing/redistribution) or any secrets—we publish the mechanics (scripts), the command to run, and a reference fingerprint file (`provenance/checksums.json`). Anyone auditing downloads the PDFs from the official source, replays the same pipeline locally, and compares. Paths and steps are spelled out in `PDF_SOURCE.md`.
 
 Command:
 
