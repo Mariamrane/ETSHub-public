@@ -4,7 +4,7 @@ Trouver une salle libre à l’ÉTS en temps réel, sans tourner 20 minutes dans
 
 Démo (site en production) : `https://etshub.ca`
 
-## French
+## Francais
 
 Comme beaucoup d’étudiants à l’ÉTS, je passais souvent 15–20 minutes à tourner dans les pavillons pour trouver une salle libre. Entre les bibliothèques pleines et les salles réservées, ça devient vite frustrant quand on veut juste étudier ou faire un travail d’équipe.
 
