@@ -1,10 +1,9 @@
 {
   "algorithm": "sha256",
   "files": {
-    "public/schedule.json": "",
-    "public/courses.json": "",
-    "public/enseignants.json": "",
-    "public/rooms.json": ""
+    "public/schedule.json": "3397f2e851e8699cebe72c0fbc92823bad27b9132fb29827628009027a1e2446",
+    "public/courses.json": "eb37fc00ac5a3e519c02d88eedd18ded3957281111ae0288c8c0c4dcad5ac536",
+    "public/enseignants.json": "34223adb1e4cf95528274cf43253f78a750e4ab7c309f420b9b11ffae5e5316a",
+    "public/rooms.json": "dd8c7a3b24773a51d76271fd576535c95ffd43057d3dd138b99c54c857dc1265"
   }
 }
-

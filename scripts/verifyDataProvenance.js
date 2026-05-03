@@ -13,12 +13,20 @@ function ensureDir(p) {
   if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true })
 }
 
+function rimraf(p) {
+  if (!fs.existsSync(p)) return
+  fs.rmSync(p, { recursive: true, force: true })
+}
+
 async function main() {
   // Force "pure PDF" output for audit: no manual overrides in this public repo.
   process.env.ETS_APPLY_OVERRIDES = "0"
 
-  // 1) Generate JSON from local PDF(s)
-  ensureDir(path.join(process.cwd(), "public"))
+  // 1) Generate JSON from local PDF(s) into a temp folder (keeps repo clean)
+  const tmpDir = path.join(process.cwd(), ".tmp-provenance")
+  rimraf(tmpDir)
+  ensureDir(tmpDir)
+  process.env.ETS_OUTPUT_DIR = tmpDir
   await run()
 
   // 2) Compare checksums with committed references
@@ -29,7 +37,8 @@ async function main() {
   const mismatches = []
 
   for (const rel of Object.keys(ref.files)) {
-    const abs = path.join(process.cwd(), rel)
+    const filename = path.basename(rel)
+    const abs = path.join(tmpDir, filename)
     if (!fs.existsSync(abs)) {
       mismatches.push({ file: rel, error: "missing output file" })
       continue
@@ -54,10 +63,12 @@ async function main() {
     console.error("\nComputed checksums:")
     console.error(JSON.stringify({ algorithm: "sha256", files: results }, null, 2))
     console.error("\nIf you are the maintainer: update provenance/checksums.json with the computed checksums.\n")
+    rimraf(tmpDir)
     process.exit(1)
   }
 
   console.log("\nOK ✅ Data matches the committed PDF-derived checksums.\n")
+  rimraf(tmpDir)
 }
 
 main().catch((err) => {

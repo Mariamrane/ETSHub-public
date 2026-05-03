@@ -1,4 +1,4 @@
-﻿/node_modules
+/node_modules
 /.next
 /out
 /build
@@ -11,3 +11,12 @@ yarn-error.log*
 .pnpm-debug.log*
 # local pdfs (optional)
 /pdf
+
+# generated data (kept out of git; reproducible via npm run verify:data)
+/public/schedule.json
+/public/courses.json
+/public/enseignants.json
+/public/rooms.json
+
+# temp output used by verify script
+/.tmp-provenance

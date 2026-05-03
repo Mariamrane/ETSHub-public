@@ -505,6 +505,9 @@ async function readPDF(filePath) {
 }
 
 async function run() {
+  const outputDir =
+    process.env.ETS_OUTPUT_DIR?.trim() || path.join(process.cwd(), "public")
+
   if (!fs.existsSync(pdfFolder)) {
     throw new Error('Missing "pdf/" folder. See PDF_SOURCE.md')
   }
@@ -529,11 +532,13 @@ async function run() {
     courseTitle: allCourseTitles[e.course] || e.courseTitle || "",
   }))
 
-  const outputPath = path.join(process.cwd(), "public", "schedule.json")
+  fs.mkdirSync(outputDir, { recursive: true })
+
+  const outputPath = path.join(outputDir, "schedule.json")
   fs.writeFileSync(outputPath, JSON.stringify(allSchedules, null, 2))
   console.log("schedule.json created")
 
-  const coursesPath = path.join(process.cwd(), "public", "courses.json")
+  const coursesPath = path.join(outputDir, "courses.json")
   const coursesList = Object.entries(allCourseTitles).map(([code, title]) => ({ code, title }))
   fs.writeFileSync(coursesPath, JSON.stringify(coursesList, null, 2))
   console.log("courses.json created", coursesList.length, "courses")
@@ -549,7 +554,7 @@ async function run() {
       enseignant,
       ...(date && { date }),
     }))
-  const enseignantsPath = path.join(process.cwd(), "public", "enseignants.json")
+  const enseignantsPath = path.join(outputDir, "enseignants.json")
   fs.writeFileSync(enseignantsPath, JSON.stringify(enseignants, null, 2))
   console.log("enseignants.json created", enseignants.length, "entries")
 
@@ -561,7 +566,7 @@ async function run() {
         .map((r) => r.trim())
     ),
   ].sort((a, b) => a.localeCompare(b, "fr"))
-  const roomsPath = path.join(process.cwd(), "public", "rooms.json")
+  const roomsPath = path.join(outputDir, "rooms.json")
   fs.writeFileSync(roomsPath, JSON.stringify(rooms, null, 2))
   console.log("rooms.json created", rooms.length, "rooms")
 }
