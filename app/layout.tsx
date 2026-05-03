@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     url: "/",
     images: [
       {
-        url: "/og-social.png",
+        url: "/preview-social.png",
         width: 1200,
         height: 630,
         alt: "ÉTS Hub — salles libres et horaires",
@@ -60,17 +60,17 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "ÉTS Hub",
     description: siteDescription,
-    images: ["/og-social.png"],
+    images: ["/preview-social.png"],
   },
   icons: {
     icon: [
       { url: "/favicon-32.png", type: "image/png", sizes: "32x32" },
       { url: "/favicon-48.png", type: "image/png", sizes: "48x48" },
-      { url: "/icon-192.png", type: "image/png", sizes: "192x192" },
+      { url: "/app-icon-192.png", type: "image/png", sizes: "192x192" },
     ],
     apple: [
       {
-        url: "/apple-touch-icon.png",
+        url: "/touch-icon.png",
         sizes: "180x180",
         type: "image/png",
       },

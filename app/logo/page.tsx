@@ -15,7 +15,7 @@ export default function LogoPage() {
           ÉTS Hub — Logo
         </h1>
         <p style={{ margin: "10px 0 18px", opacity: 0.8 }}>
-          Fichier: <code>/public/logo-transparent_LOUPE.png</code>
+          Fichier: <code>/public/logo.png</code>
         </p>
 
         <div
@@ -27,7 +27,7 @@ export default function LogoPage() {
           }}
         >
           <img
-            src="/logo-transparent_LOUPE.png"
+            src="/logo.png"
             alt="ÉTS Hub logo"
             style={{
               width: "min(520px, 100%)",
@@ -40,8 +40,8 @@ export default function LogoPage() {
 
         <p style={{ margin: "18px 0 0", opacity: 0.8 }}>
           Téléchargement direct:{" "}
-          <a href="/logo-transparent_LOUPE.png" download>
-            logo-transparent_LOUPE.png
+          <a href="/logo.png" download>
+            logo.png
           </a>
         </p>
       </div>

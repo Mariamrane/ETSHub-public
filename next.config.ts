@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   async headers() {
     return [
       {
-        source: "/og-social.png",
+        source: "/preview-social.png",
         headers: [
           {
             key: "Cache-Control",
@@ -13,7 +13,7 @@ const nextConfig: NextConfig = {
         ],
       },
       {
-        source: "/og-loupe.png",
+        source: "/preview-logo.png",
         headers: [
           {
             key: "Cache-Control",
