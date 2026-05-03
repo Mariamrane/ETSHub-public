@@ -1,0 +1,10 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "public/schedule.json": "",
+    "public/courses.json": "",
+    "public/enseignants.json": "",
+    "public/rooms.json": ""
+  }
+}
+

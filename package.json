@@ -7,20 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "parse": "node scripts/parseScheduleFull.js",
-    "verify:pdf": "node scripts/verifyPdfCoverage.js",
-    "logo:transparent": "node scripts/make-logo-transparent.js",
-    "logo:clean": "node scripts/clean-logo-fringe.js",
-    "logo:themes": "node scripts/copy-theme-logos.js",
-    "icons:pwa": "node scripts/generate-pwa-icons.js"
+    "build:data": "node scripts/parseScheduleFull.js",
+    "verify:data": "node scripts/verifyDataProvenance.js"
   },
   "dependencies": {
-    "@vercel/analytics": "^2.0.1",
     "next": "16.1.6",
     "pdf-parse": "^1.1.1",
     "react": "19.2.3",
-    "react-dom": "19.2.3",
-    "resend": "^6.9.4"
+    "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
