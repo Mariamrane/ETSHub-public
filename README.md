@@ -4,34 +4,28 @@ Trouver une salle libre à l’ÉTS en temps réel, sans tourner 20 minutes dans
 
 Démo (site en production) : `https://etshub.ca`
 
-## 🇫🇷 Français
+## French
 
 Comme beaucoup d’étudiants à l’ÉTS, je passais souvent 15–20 minutes à tourner dans les pavillons pour trouver une salle libre. Entre les bibliothèques pleines et les salles réservées, ça devient vite frustrant quand on veut juste étudier ou faire un travail d’équipe.
 
-J’ai donc créé **ÉTS Hub**, une plateforme simple pour centraliser l’info au même endroit.
-
-Tu peux y voir les salles et labs libres en temps réel (LIVE), savoir jusqu’à quand une salle est libre/occupée, voir la densité d’occupation par pavillon, et choisir une date + heure pour planifier plus tard.
-
-Il y a aussi des fonctionnalités supplémentaires comme les petites salles de travail sans réservation (avec description), la recherche par cours (horaire + locaux) et la recherche par enseignant (cours + horaire).
-
-Les salles/labs avec accès limité sont indiquées (carte étudiante requise).
+J’ai donc créé **ÉTS Hub**, une plateforme simple pour centraliser l’info au même endroit. Tu peux y voir les salles et labs libres en temps réel (LIVE), savoir jusqu’à quand une salle est libre ou occupée, voir la densité d’occupation par pavillon, et choisir une date et une heure pour planifier plus tard. Il y a aussi des petites salles de travail sans réservation (avec description), une recherche par cours (horaire et locaux) et une recherche par enseignant (cours et horaire). Les salles ou labs avec accès limité sont indiqués (carte étudiante requise).
 
 ### Pourquoi ce dépôt est public
-Ce dépôt est public pour l’audit/transparence (école/étudiants) et pour montrer la provenance des données.
 
-Le déploiement (site en production) est géré séparément. Ici, l’objectif est surtout de montrer le code côté client et la chaîne de génération des données à partir des PDF officiels.
+Ce dépôt est public pour l’audit et la transparence (école et étudiants). Le site en production est déployé séparément. Ici, l’objectif est surtout de montrer le code côté client et la chaîne de génération des données à partir des PDF officiels.
 
 ### Provenance des données (PDF → JSON)
-Ce dépôt n’inclut pas les PDF (licence / redistribution). Pour vérifier la provenance, voir `PDF_SOURCE.md`.
 
-Vérification reproductible :
+Les PDF ne sont pas inclus dans ce dépôt (licence et redistribution). Les détails pratiques sont dans `PDF_SOURCE.md`.
+
+L’idée de la “vérification reproductible”, c’est simple : une personne qui télécharge les mêmes PDF officiels, puis lance la commande de vérification, obtient les mêmes empreintes (SHA‑256) que celles stockées dans `provenance/checksums.json`. Ça permet de confirmer que les données ne sont pas “inventées à la main” dans le repo.
+
+Commande :
 
 ```bash
 npm install
 npm run verify:data
 ```
-
-Si la commande affiche **OK ✅**, les données générées à partir des PDF correspondent aux checksums de `provenance/checksums.json`.
 
 ### Lancer localement (optionnel)
 
@@ -41,39 +35,35 @@ npm run dev
 ```
 
 ### Stack
-Next.js (App Router), TypeScript, parsing PDF → JSON et vérification par SHA‑256.
+
+Next.js (App Router), TypeScript, parsing PDF → JSON, vérification par SHA‑256.
 
 ### Contribution
+
 Ce dépôt est public pour audit uniquement. Les contributions externes ne sont pas acceptées pour le moment.
 
-## 🇬🇧 English
+## English
 
 Like many ÉTS students, I often spent 15–20 minutes walking around buildings to find an available room. Between packed libraries and reserved classrooms, it gets frustrating when you just want to study or work on a team project.
 
-So I built **ÉTS Hub**, a simple platform to keep everything in one place.
-
-It shows live available classrooms/labs (LIVE), how long a room stays free/occupied, live occupancy density per building, and lets you pick a date + time to plan ahead.
-
-It also includes extra features like work rooms that don’t require reservations (with descriptions), course search (schedule + rooms), and teacher search (courses + schedule).
-
-Rooms/labs with restricted access are flagged (student card required).
+So I built **ÉTS Hub**, a simple platform to keep everything in one place. It shows live available classrooms/labs (LIVE), how long a room stays free or occupied, live occupancy density per building, and lets you pick a date and time to plan ahead. It also includes work rooms that don’t require reservations (with descriptions), course search (schedule and rooms), and teacher search (courses and schedule). Rooms/labs with restricted access are flagged (student card required).
 
 ### Why this repository is public
-This repository is public for audit/transparency (school/students) and to show data provenance.
 
-Production deployment is handled separately. This public repo mainly exists to share the client-side code and the PDF-to-data generation flow.
+This repository is public for audit and transparency (school and students). Production deployment is handled separately. This public repo mainly exists to share the client-side code and the PDF-to-data generation flow.
 
 ### Data provenance (PDF → JSON)
-This repository does not include PDFs (licensing/redistribution). For instructions, see `PDF_SOURCE.md`.
 
-Reproducible verification:
+PDFs are not included in this repository (licensing/redistribution). Practical details are in `PDF_SOURCE.md`.
+
+“Reproducible verification” means: if someone downloads the same official PDFs and runs the verification command, they get the same SHA‑256 fingerprints as the ones stored in `provenance/checksums.json`. That helps confirm the data wasn’t manually edited inside the repo.
+
+Command:
 
 ```bash
 npm install
 npm run verify:data
 ```
-
-If the command prints **OK ✅**, the PDF‑derived data matches the checksums in `provenance/checksums.json`.
 
 ### Run locally (optional)
 
@@ -83,8 +73,9 @@ npm run dev
 ```
 
 ### Tech stack
-Next.js (App Router), TypeScript, PDF → JSON parsing and SHA‑256 verification.
+
+Next.js (App Router), TypeScript, PDF → JSON parsing, SHA‑256 verification.
 
 ### Contributions
-This repository is public for audit only. External contributions are not accepted at the moment.
 
+This repository is public for audit only. External contributions are not accepted at the moment.
