@@ -1,0 +1,1178 @@
+[
+  {
+    "code": "PGM110",
+    "title": "COMPTABILITÉ ET FINANCES EN MAINTENANCE"
+  },
+  {
+    "code": "ATE100",
+    "title": "INTÉGRITÉ INTELLECTUELLE"
+  },
+  {
+    "code": "GIA400",
+    "title": "ANALYSE DE RENTABILITÉ DE PROJETS"
+  },
+  {
+    "code": "GIA602",
+    "title": "ERGONOMIE ET SÉCURITÉ EN MILIEU INDUSTRIEL"
+  },
+  {
+    "code": "GPE450",
+    "title": "GESTION DU PERSONNEL ET RELATIONS"
+  },
+  {
+    "code": "QUA202",
+    "title": "PROJET SYNTHÈSE AMÉLIO CONTINUE OPTIMI"
+  },
+  {
+    "code": "COM120",
+    "title": "MÉTHODES DE COMMUNICATION"
+  },
+  {
+    "code": "GCI102",
+    "title": "L’INFORMATIQUE ET LA CONSTRUCTION"
+  },
+  {
+    "code": "GCI350",
+    "title": "ESTIMATION ET SOUMISSIONS"
+  },
+  {
+    "code": "GCI411",
+    "title": "CONTRATS DE CONSTRUCTION ET OBLIGATIONS"
+  },
+  {
+    "code": "EEC550",
+    "title": "ESTIMATION BUDGÉTAIRE EN CONSTRUCTION"
+  },
+  {
+    "code": "IMM110",
+    "title": "SYSTÈMES INTERNES D'UN BÂTIMENT"
+  },
+  {
+    "code": "PRE012",
+    "title": "INITIATION À LA SANTÉ ET SÉCURITÉ AU TRAVAIL"
+  },
+  {
+    "code": "CHM015",
+    "title": "CHIMIE PRÉPARATOIRE POUR LE GÉNIE"
+  },
+  {
+    "code": "GTI100",
+    "title": "PROGRAMMATION ET RÉSEAUTIQUE EN GÉNIE DES TI"
+  },
+  {
+    "code": "INF111",
+    "title": "PROGRAMMATION ORIENTÉE-OBJET (HORS"
+  },
+  {
+    "code": "INF155",
+    "title": "INTRODUCTION À LA PROGRAMMATION"
+  },
+  {
+    "code": "LOG100",
+    "title": "ou GTI100 et LOG121 /"
+  },
+  {
+    "code": "LOG121",
+    "title": "CONCEPTION ORIENTÉE OBJET"
+  },
+  {
+    "code": "MAT015",
+    "title": "MATHÉMATIQUES PRÉPARATOIRES POUR LES SCIENCES ET LE GÉNIE"
+  },
+  {
+    "code": "PHY015",
+    "title": "PHYSIQUE PRÉPARATOIRE POUR LE GÉNIE"
+  },
+  {
+    "code": "TCH055",
+    "title": "BASES DE DONNÉES"
+  },
+  {
+    "code": "TCH056",
+    "title": "PROGRAMMATION WEB"
+  },
+  {
+    "code": "TCH057",
+    "title": "APPLICATIONS MOBILES ET EXPÉRIENCE USAGER"
+  },
+  {
+    "code": "TCH099",
+    "title": "PROJET INTÉGRATEUR EN INFORMATIQUE"
+  },
+  {
+    "code": "AER671",
+    "title": "DESIGN CONCEPTUEL DES AÉRONEFS"
+  },
+  {
+    "code": "CHM131",
+    "title": "CHIMIE ET MATÉRIAUX"
+  },
+  {
+    "code": "ENT202",
+    "title": "INTRODUCTION À L'ENTREPRENEURSHIP"
+  },
+  {
+    "code": "ETH310",
+    "title": "ENCADREMENT DE LA PROFESSION ET ÉTHIQUE"
+  },
+  {
+    "code": "GIA410",
+    "title": "GESTION ET ÉCONOMIE DES PROJETS D’INGÉNIERIE"
+  },
+  {
+    "code": "GPA535",
+    "title": "SYSTÈMES ASSERVIS"
+  },
+  {
+    "code": "GPA783",
+    "title": "ASSERVISSEMENT NUMÉRIQUE EN TEMPS RÉEL"
+  },
+  {
+    "code": "GSY500",
+    "title": "MAÎTRISE STATISTIQUE DES PROCÉDÉS"
+  },
+  {
+    "code": "INF136",
+    "title": "INTRODUCTION À LA PROGRAMMATION EN PYTHON"
+  },
+  {
+    "code": "ING500",
+    "title": "OUTILS DE DÉVELOPPEMENT DURABLE POUR"
+  },
+  {
+    "code": "MAT145",
+    "title": "CALCUL DIFFÉRENTIEL ET INTÉGRAL"
+  },
+  {
+    "code": "MAT265",
+    "title": "ÉQUATIONS DIFFÉRENTIELLES"
+  },
+  {
+    "code": "MAT350",
+    "title": "PROBABILITÉS ET STATISTIQUES"
+  },
+  {
+    "code": "MAT472",
+    "title": "ALGÈBRE LINÉAIRE ET GÉOMÉTRIE DE L'ESPACE"
+  },
+  {
+    "code": "MEC029",
+    "title": "COMMUNICATION GRAPHIQUE ET FABRICATION"
+  },
+  {
+    "code": "MEC111",
+    "title": "STATIQUE DE L'INGÉNIEUR"
+  },
+  {
+    "code": "MEC200",
+    "title": "TECHNOLOGIE DES MATÉRIAUX"
+  },
+  {
+    "code": "MEC222",
+    "title": "DYNAMIQUE"
+  },
+  {
+    "code": "MEC300",
+    "title": "TECHNOLOGIE DE FABRICATION"
+  },
+  {
+    "code": "MEC329",
+    "title": "RÉSISTANCE DES MATÉRIAUX"
+  },
+  {
+    "code": "MEC423",
+    "title": "MÉTHODE DES ÉLÉMENTS FINIS DES CORPS"
+  },
+  {
+    "code": "MEC525",
+    "title": "CONCEPTION VIBRATOIRE ET DYNAMIQUE DES"
+  },
+  {
+    "code": "MEC532",
+    "title": "TRANSFERT DE CHALEUR"
+  },
+  {
+    "code": "MEC546",
+    "title": "CIRCUITS ÉLECTRIQUES ET ÉLECTROTECHNIQUE"
+  },
+  {
+    "code": "MEC743",
+    "title": "INSTRUMENTATION ET CONTRÔLE DES PROCÉDÉS"
+  },
+  {
+    "code": "MEC761",
+    "title": "ESSAIS MÉCANIQUES ET CONTRÔLE NON DESTRUCTIF"
+  },
+  {
+    "code": "MEC785",
+    "title": "MÉTHODOLOGIE DE CONCEPTION POUR LA"
+  },
+  {
+    "code": "MEC786",
+    "title": "MISE EN FORME DE POLYMÈRES ET COMPOSITES"
+  },
+  {
+    "code": "PHY332",
+    "title": "ÉLECTRICITÉ ET MAGNÉTISME"
+  },
+  {
+    "code": "PRE011",
+    "title": "DÉVELOPPEMENT PROFESSIONNEL ET INITIATION À LA"
+  },
+  {
+    "code": "TIN503",
+    "title": "ENVIRONNEMENT, TECHNOLOGIE ET SOCIÉTÉ"
+  },
+  {
+    "code": "ETH610",
+    "title": "ENJEUX ÉTHIQUES DE L’INTELLIGENCE ARTIFICIELLE"
+  },
+  {
+    "code": "GOL301",
+    "title": "CONCEPTION ET AMÉNAGEMENT DE SYSTÈMES"
+  },
+  {
+    "code": "GOL401",
+    "title": "RÉINGÉNIERIE DE PROCESSUS D’AFFAIRES ET"
+  },
+  {
+    "code": "GOL451",
+    "title": "PLANIFICATION ET CONTRÔLE DES OPÉRATIONS"
+  },
+  {
+    "code": "GOL460",
+    "title": "CHAÎNES LOGISTIQUES ET D'APPROVISIONNEMENT"
+  },
+  {
+    "code": "GOL465",
+    "title": "SIMULATION DES OPÉRATIONS ET DES ACTIVITÉS DE"
+  },
+  {
+    "code": "GOL471",
+    "title": "SYSTÈMES DE DISTRIBUTION"
+  },
+  {
+    "code": "GOL491",
+    "title": "CONCEPTION DES SYSTÈMES D’INFORMATION ET"
+  },
+  {
+    "code": "GOL508",
+    "title": "ORGANISATION FLEXIBLE DE LA PRODUCTION"
+  },
+  {
+    "code": "GOL514",
+    "title": "INGÉNIERIE SIMULTANÉE POUR DES"
+  },
+  {
+    "code": "GOL605",
+    "title": "ANALYSE DE LA PERFORMANCE FINANCIÈRE"
+  },
+  {
+    "code": "GOL711",
+    "title": "GESTION DE PROJET DANS LES PRODUITS ET"
+  },
+  {
+    "code": "GOL720",
+    "title": "IMPLANTATION SYST. INTÉGRÉS DE GESTION"
+  },
+  {
+    "code": "GOL726",
+    "title": "SYSTÈMES DE TRANSPORT DE MARCHANDISES ET DE"
+  },
+  {
+    "code": "GOL791",
+    "title": "PROJETS SPÉCIAUX"
+  },
+  {
+    "code": "GOL793",
+    "title": "PROJET FIN D’ÉTUDES EN GÉNIE DES OPÉRATIONS ET"
+  },
+  {
+    "code": "GSY400",
+    "title": "MÉTHODES QUANTITATIVES EN GÉNIE DES SYSTÈMES"
+  },
+  {
+    "code": "INF130",
+    "title": "ORDINATEURS ET PROGRAMMATION"
+  },
+  {
+    "code": "ING150",
+    "title": "STATIQUE ET DYNAMIQUE"
+  },
+  {
+    "code": "ING160",
+    "title": "THERMODYNAMIQUE ET MÉCANIQUE DES FLUIDES"
+  },
+  {
+    "code": "MAT144",
+    "title": "INTRODUCTION AUX MATHÉMATIQUES DU GÉNIE"
+  },
+  {
+    "code": "MAT215",
+    "title": "LOGIQUE ET MATHÉMATIQUES DISCRÈTES POUR"
+  },
+  {
+    "code": "PHY144",
+    "title": "INTRODUCTION À LA PHYSIQUE DU GÉNIE (HORS"
+  },
+  {
+    "code": "PHY335",
+    "title": "PHYSIQUE DES ONDES"
+  },
+  {
+    "code": "GPA142",
+    "title": "AUTOMATES PROGRAMMABLES: LANGAGES ET MISE"
+  },
+  {
+    "code": "GPA205",
+    "title": "CONCEPTION DE SYSTÈMES DE PRODUCTION"
+  },
+  {
+    "code": "GPA210",
+    "title": "ÉLÉMENTS DE FABRICATION MÉCANIQUE"
+  },
+  {
+    "code": "GPA220",
+    "title": "ANALYSE DES CIRCUITS ÉLECTRIQUES"
+  },
+  {
+    "code": "GPA434",
+    "title": "INGÉNIERIE DES SYSTÈMES ORIENTÉS-OBJET"
+  },
+  {
+    "code": "GPA445",
+    "title": "CONCEPTION ASSISTÉE PAR ORDINATEUR"
+  },
+  {
+    "code": "GPA546",
+    "title": "ROBOTS INDUSTRIELS"
+  },
+  {
+    "code": "GPA551",
+    "title": "PRODUCTION ET GESTION DE PROJETS"
+  },
+  {
+    "code": "GPA667",
+    "title": "CONCEPTION ET SIMULATION DE CIRCUITS"
+  },
+  {
+    "code": "GPA325",
+    "title": "sauf profil E"
+  },
+  {
+    "code": "GPA668",
+    "title": "CAPTEURS ET ACTIONNEURS"
+  },
+  {
+    "code": "GPA685",
+    "title": "BASE DE DONNÉES"
+  },
+  {
+    "code": "GPA771",
+    "title": "MÉCATRONIQUE APPLIQUÉE"
+  },
+  {
+    "code": "GPA786",
+    "title": "RENTABILITÉ DE PROJETS D'AUTOMATISATION"
+  },
+  {
+    "code": "GPA791",
+    "title": "PROJETS SPÉCIAUX"
+  },
+  {
+    "code": "GPA793",
+    "title": "PROJET DE FIN D’ÉTUDES EN GÉNIE DE LA"
+  },
+  {
+    "code": "GTS640",
+    "title": "DOSSIER ÉLECTRONIQUE DE SANTÉ"
+  },
+  {
+    "code": "DSN420",
+    "title": "VISUALISATION DE L’INFORMATION"
+  },
+  {
+    "code": "GTI525",
+    "title": "TECHNOLOGIES DE DÉVELOPPEMENT INTERNET"
+  },
+  {
+    "code": "GTI619",
+    "title": "SÉCURITÉ DES SYSTÈMES"
+  },
+  {
+    "code": "IND235",
+    "title": "GRAPHES ET ALGORITHMES"
+  },
+  {
+    "code": "IND250",
+    "title": "CONCEPTION DE PLATEFORMES INFONUAGIQUES"
+  },
+  {
+    "code": "IND300",
+    "title": "SÉCURITÉ DANS LES ENVIRONNEMENTS"
+  },
+  {
+    "code": "LOG320",
+    "title": "STRUCTURES DE DONNÉES ET ALGORITHMES"
+  },
+  {
+    "code": "LOG635",
+    "title": "SYSTÈMES INTELLIGENTS ET ALGORITHMES"
+  },
+  {
+    "code": "LOG645",
+    "title": "ARCHITECTURES DE CALCULS PARALLÈLES"
+  },
+  {
+    "code": "LOG660",
+    "title": "BASES DE DONNÉES DE HAUTE PERFORMANCE"
+  },
+  {
+    "code": "LOG680",
+    "title": "INTRODUCTION À L'APPROCHE DEVOPS"
+  },
+  {
+    "code": "MAT210",
+    "title": "LOGIQUE ET MATHÉMATIQUES DISCRÈTES"
+  },
+  {
+    "code": "PRE013",
+    "title": "DÉVELOPPEMENT PROFESSIONNEL ET SANTÉ ET"
+  },
+  {
+    "code": "STA204",
+    "title": "ou"
+  },
+  {
+    "code": "COM410",
+    "title": "RÉDACTION TECHNIQUE ET COMMUNICATION EN"
+  },
+  {
+    "code": "ELE747",
+    "title": "ANALYSE ET TRAITEMENT D'IMAGES"
+  },
+  {
+    "code": "ENT301",
+    "title": "PROJETS SPÉCIAUX EN ENTREPRENEURIAT I"
+  },
+  {
+    "code": "ENT302",
+    "title": "PROJETS SPÉCIAUX EN ENTREPRENEURIAT II"
+  },
+  {
+    "code": "ENT303",
+    "title": "PROJETS SPÉCIAUX EN ENTREPRENEURIAT III"
+  },
+  {
+    "code": "ENT304",
+    "title": "PROJETS SPÉCIAUX EN ENTREPRENEURIAT IV"
+  },
+  {
+    "code": "GTI320",
+    "title": "PROGRAMMATION MATHÉMATIQUE : PATRONS ET"
+  },
+  {
+    "code": "GTI350",
+    "title": "CONCEPTION ET ÉVALUATION DES INTERFACES"
+  },
+  {
+    "code": "GTI510",
+    "title": "GESTION DE PROJETS ET ASSURANCE DE LA QUALITÉ"
+  },
+  {
+    "code": "GTI611",
+    "title": "RÉSEAUX DE COMMUNICATION IP"
+  },
+  {
+    "code": "GTI719",
+    "title": "SÉCURITÉ DES RÉSEAUX D'ENTREPRISE"
+  },
+  {
+    "code": "GTI720",
+    "title": "PROTECTION DES RENSEIGNEMENTS PERSONNELS"
+  },
+  {
+    "code": "GTI745",
+    "title": "INTERFACES UTILISATEURS AVANCÉES"
+  },
+  {
+    "code": "LOG210",
+    "title": "ANALYSE ET CONCEPTION DE LOGICIELS"
+  },
+  {
+    "code": "LOG240",
+    "title": "TESTS ET MAINTENANCE"
+  },
+  {
+    "code": "LOG410",
+    "title": "ANALYSE DE BESOINS ET SPÉCIFICATIONS"
+  },
+  {
+    "code": "LOG430",
+    "title": "ARCHITECTURE LOGICIELLE"
+  },
+  {
+    "code": "LOG791",
+    "title": "PROJETS SPÉCIAUX"
+  },
+  {
+    "code": "LOG795",
+    "title": "PROJET DE FIN D'ÉTUDES EN GÉNIE LOGICIEL"
+  },
+  {
+    "code": "GTI660",
+    "title": "BASES DE DONNÉES MULTIMÉDIAS"
+  },
+  {
+    "code": "GTI791",
+    "title": "PROJETS SPÉCIAUX"
+  },
+  {
+    "code": "GTI795",
+    "title": "PROJET DE FIN D'ÉTUDES EN GÉNIE DES"
+  },
+  {
+    "code": "ATE030",
+    "title": "INTRODUCTION À LA THERMODYNAMIQUE"
+  },
+  {
+    "code": "CHM130",
+    "title": "CHIMIE ET THERMOCHIMIE"
+  },
+  {
+    "code": "COM127",
+    "title": "RÉDACTION TECHNIQUE ET COMMUNICATION EN"
+  },
+  {
+    "code": "CTN210",
+    "title": "MÉTHODES DE CONSTRUCTION ET PRODUCTIVITÉ"
+  },
+  {
+    "code": "CTN248",
+    "title": "STATIQUE ET DYNAMIQUE"
+  },
+  {
+    "code": "CTN318",
+    "title": "RÉSISTANCE DES MATÉRIAUX"
+  },
+  {
+    "code": "CTN320",
+    "title": "PLANIFICATION ET CONTRÔLE DES PROJETS DE"
+  },
+  {
+    "code": "CTN346",
+    "title": "MÉCANIQUE DES FLUIDES"
+  },
+  {
+    "code": "CTN404",
+    "title": "SCIENCE ET TECHNOLOGIE DES MATÉRIAUX"
+  },
+  {
+    "code": "CTN408",
+    "title": "ANALYSE DES STRUCTURES"
+  },
+  {
+    "code": "CTN456",
+    "title": "HYDRAULIQUE ET HYDROLOGIE"
+  },
+  {
+    "code": "CTN504",
+    "title": "MÉCANIQUE DES SOLS"
+  },
+  {
+    "code": "CTN508",
+    "title": "STRUCTURES DE BÉTON"
+  },
+  {
+    "code": "CTN603",
+    "title": "THERMIQUE ET SCIENCE DU BÂTIMENT"
+  },
+  {
+    "code": "CTN609",
+    "title": "DROIT DE LA CONSTRUCTION"
+  },
+  {
+    "code": "CTN610",
+    "title": "GESTION DES CONTRATS DE CONSTRUCTION"
+  },
+  {
+    "code": "CTN626",
+    "title": "GÉNIE DE L'ENVIRONNEMENT"
+  },
+  {
+    "code": "CTN647",
+    "title": "CONCEPTION ROUTIÈRE"
+  },
+  {
+    "code": "CTN733",
+    "title": "SYSTÈMES ÉLECTRIQUES DU BÂTIMENT"
+  },
+  {
+    "code": "CTN763",
+    "title": "SERVICES MUNICIPAUX"
+  },
+  {
+    "code": "CTN772",
+    "title": "ENTRETIEN, RÉHABILITATION ET GESTION DES"
+  },
+  {
+    "code": "CTN781",
+    "title": "STRUCTURES EN BOIS ET FAUSSES CHARPENTES"
+  },
+  {
+    "code": "CTN783",
+    "title": "CHARPENTES D'ACIER"
+  },
+  {
+    "code": "CTN784",
+    "title": "CONCEPTION ET ANALYSE DES PONTS"
+  },
+  {
+    "code": "CTN785",
+    "title": "ANALYSE ET CONCEPTION DES STRUCTURES"
+  },
+  {
+    "code": "CTN791",
+    "title": "PROJETS SPÉCIAUX"
+  },
+  {
+    "code": "CTN793",
+    "title": "PROJET DE FIN D'ÉTUDES EN GÉNIE DE LA"
+  },
+  {
+    "code": "MAT165",
+    "title": "ALGÈBRE LINÉAIRE ET ANALYSE VECTORIELLE"
+  },
+  {
+    "code": "ATE029",
+    "title": "INTRODUCTION À LA MODÉLISATION SOLIDE AVEC"
+  },
+  {
+    "code": "COM130",
+    "title": "MÉTHODES DE COMMUNICATION EN GÉNIE"
+  },
+  {
+    "code": "MEC129",
+    "title": "DÉVELOPPEMENT DE PRODUITS ASSISTÉ PAR"
+  },
+  {
+    "code": "MEC240",
+    "title": "THERMODYNAMIQUE"
+  },
+  {
+    "code": "MEC335",
+    "title": "MÉCANIQUE DES FLUIDES"
+  },
+  {
+    "code": "MEC402",
+    "title": "PRODUCTION ET FABRICATION INDUSTRIELLES"
+  },
+  {
+    "code": "MEC528",
+    "title": "ÉLÉMENTS DE MACHINE"
+  },
+  {
+    "code": "MEC592",
+    "title": "PROJET DE CONCEPTION DE MACHINES"
+  },
+  {
+    "code": "MEC628",
+    "title": "CONCEPTION DE SYSTÈMES À FLUIDE SOUS"
+  },
+  {
+    "code": "MEC737",
+    "title": "MOTEURS ALTERNATIFS À COMBUSTION INTERNE"
+  },
+  {
+    "code": "MEC744",
+    "title": "MANIPULATEURS ROBOTIQUES"
+  },
+  {
+    "code": "MEC754",
+    "title": "OPTIMISATION EN PRODUCTION MANUFACTURIÈRE"
+  },
+  {
+    "code": "MEC755",
+    "title": "GESTION DE PROJETS INDUSTRIELS AVANCÉE"
+  },
+  {
+    "code": "MEC788",
+    "title": "MÉCATRONIQUE"
+  },
+  {
+    "code": "MEC791",
+    "title": "PROJETS SPÉCIAUX"
+  },
+  {
+    "code": "MEC795",
+    "title": "PROJET DE FIN D'ÉTUDES EN GÉNIE MÉCANIQUE"
+  },
+  {
+    "code": "COM400",
+    "title": "RÉDACTION TECHNIQUE ET COMMUNICATION EN"
+  },
+  {
+    "code": "ELE105",
+    "title": "CIRCUITS ÉLECTRIQUES"
+  },
+  {
+    "code": "ELE140",
+    "title": "CONCEPTION DES SYSTÈMES NUMÉRIQUES"
+  },
+  {
+    "code": "ELE200",
+    "title": "CIRCUITS ÉLECTRONIQUES"
+  },
+  {
+    "code": "ELE216",
+    "title": "DÉVELOPPEMENT DE LOGICIELS EN GÉNIE"
+  },
+  {
+    "code": "ELE265",
+    "title": "TRAITEMENT DE SIGNAUX"
+  },
+  {
+    "code": "ELE275",
+    "title": "ASSERVISSEMENTS LINÉAIRES"
+  },
+  {
+    "code": "ELE312",
+    "title": "ÉLECTROMAGNÉTISME"
+  },
+  {
+    "code": "ELE344",
+    "title": "CONCEPTION ET ARCHITECTURE DE PROCESSEURS"
+  },
+  {
+    "code": "ELE355",
+    "title": "ÉLECTRONIQUE DE PUISSANCE I"
+  },
+  {
+    "code": "ELE400",
+    "title": "MÉTHODOLOGIE DE DESIGN EN GÉNIE ÉLECTRIQUE"
+  },
+  {
+    "code": "ELE413",
+    "title": "ONDES ÉLECTROMAGNÉTIQUES"
+  },
+  {
+    "code": "ELE431",
+    "title": "ANALYSE ET CONCEPTION DE CIRCUITS"
+  },
+  {
+    "code": "ELE452",
+    "title": "PRINCIPES DES SYSTÈMES DE L'AÉRONAUTIQUE"
+  },
+  {
+    "code": "ELE462",
+    "title": "PRINCIPES DES SYSTÈMES DE COMMUNICATION"
+  },
+  {
+    "code": "ELE474",
+    "title": "COMMANDE NUMÉRIQUE"
+  },
+  {
+    "code": "ELE543",
+    "title": "PRINCIPES DES SYSTÈMES EMBARQUÉS"
+  },
+  {
+    "code": "ELE652",
+    "title": "ÉLECTRICITÉ INDUSTRIELLE"
+  },
+  {
+    "code": "ELE653",
+    "title": "TRANSPORT DE L'ÉNERGIE"
+  },
+  {
+    "code": "ELE673",
+    "title": "INSTRUMENTATION INDUSTRIELLE"
+  },
+  {
+    "code": "ELE791",
+    "title": "PROJETS SPÉCIAUX"
+  },
+  {
+    "code": "ELE795",
+    "title": "PROJET DE FIN D’ÉTUDES EN GÉNIE ÉLECTRIQUE"
+  },
+  {
+    "code": "ELE796",
+    "title": "INGÉNIERIE INFONUAGIQUE"
+  },
+  {
+    "code": "ELE889",
+    "title": "TECHNOLOGIES DE L'ÉNERGIE SOLAIRE"
+  },
+  {
+    "code": "INF147",
+    "title": "PROGRAMMATION PROCÉDURALE"
+  },
+  {
+    "code": "ATE800",
+    "title": "INTÉGRITÉ INTELLECTUELLE : UN SAVOIR-ÊTRE ET UN"
+  },
+  {
+    "code": "BIM830",
+    "title": "INTRODUCTION À LA MODÉLISATION DES DONNÉES DU"
+  },
+  {
+    "code": "BIM850",
+    "title": "MODÉLISATION DE LA CONSTRUCTION EN 4D (TEMPS)"
+  },
+  {
+    "code": "ENM810",
+    "title": "PROCESSUS D’ACCOMPAGNEMENT EN"
+  },
+  {
+    "code": "ENM820",
+    "title": "OBJETS CONNECTÉS"
+  },
+  {
+    "code": "ENM860",
+    "title": "ANALYSE DE DONNÉES ET SYSTÈMES PRÉDICTIFS"
+  },
+  {
+    "code": "ENR801",
+    "title": "ÉNERGIE : DES NOTIONS FONDAMENTALES AUX DÉFIS"
+  },
+  {
+    "code": "ENR811",
+    "title": "ÉNERGIES RENOUVELABLES"
+  },
+  {
+    "code": "ENR815",
+    "title": "BIOCARBURANTS ET COMBUSTION"
+  },
+  {
+    "code": "ENR850",
+    "title": "QUALITÉ DE L'ÉNERGIE ÉLECTRIQUE"
+  },
+  {
+    "code": "ENR860",
+    "title": "ÉLECTRIFICATION DES TRANSPORTS"
+  },
+  {
+    "code": "ENR880",
+    "title": "SUJETS SPÉC. EN ÉNERGIES RENOUV. ET EFFICACITÉ"
+  },
+  {
+    "code": "ENR881",
+    "title": "SUJETS SPÉCIAUX II EN ÉNERGIES RENOUVELABLES"
+  },
+  {
+    "code": "ENR889",
+    "title": "SYSTÈMES D'ÉNERGIE SOLAIRE PHOTOVOLTAÏQUE"
+  },
+  {
+    "code": "ENV803",
+    "title": "TRAITEMENT DES EAUX : PROCÉDÉS"
+  },
+  {
+    "code": "ENV805",
+    "title": "INTRODUCTION AUX PROBLÉMATIQUES"
+  },
+  {
+    "code": "ENV830",
+    "title": "MANAGEMENT ENVIRONNEMENTAL INDUSTRIEL"
+  },
+  {
+    "code": "ENV850",
+    "title": "ANALYSE DU CYCLE DE VIE"
+  },
+  {
+    "code": "ENV867",
+    "title": "CONCEPTION EN GÉNIE DE L'ENVIRONNEMENT"
+  },
+  {
+    "code": "ENV882",
+    "title": "SUJETS SPÉCIAUX II EN GÉNIE DE L’ENVIRONNEMENT"
+  },
+  {
+    "code": "GES800",
+    "title": "INTRODUCTION À LA GESTION DE PROJETS"
+  },
+  {
+    "code": "GES804",
+    "title": "GESTION DE PORTEFEUILLE DE PROJETS"
+  },
+  {
+    "code": "GES811",
+    "title": "GESTION ET SUPERVISION D’ÉQUIPES EN SITUATION"
+  },
+  {
+    "code": "GES821",
+    "title": "PRATIQUES AVANCÉES EN GESTION DE PROJETS"
+  },
+  {
+    "code": "GES824",
+    "title": "ALGORITHMIQUES ET INTELLIGENCE ARTIFICIELLE EN"
+  },
+  {
+    "code": "GES826",
+    "title": "CADRE JURIDIQUE DE BASE POUR INGÉNIEURS EN"
+  },
+  {
+    "code": "GES830",
+    "title": "TECHNIQUES AVANCÉES EN INGÉNIERIE FINANCIÈRE"
+  },
+  {
+    "code": "GES835",
+    "title": "CRÉATIVITÉ ET INNOVATION"
+  },
+  {
+    "code": "GES839",
+    "title": "MÉTHODOLOGIE D’INGÉNIERIE CRÉATIVE : C-K"
+  },
+  {
+    "code": "GES845",
+    "title": "STRATÉGIE ET ANALYSE DE MARCHÉ"
+  },
+  {
+    "code": "GES846",
+    "title": "STRATÉGIES D'AFFAIRES ET MARCHÉS MONDIAUX"
+  },
+  {
+    "code": "GES852",
+    "title": "INTELLIGENCE ARTIFICIELLE: FONDEMENTS ET"
+  },
+  {
+    "code": "GES860",
+    "title": "INNOVATIONS ET COMMERCIALI."
+  },
+  {
+    "code": "GES862",
+    "title": "GESTION DES CONNAISSANCES POUR L'INNOVATION"
+  },
+  {
+    "code": "GES863",
+    "title": "FINANCEMENT DE L'INNOVATION: DE L'IDÉE AU"
+  },
+  {
+    "code": "GES864",
+    "title": "GESTION DU DÉMARRAGE D'UN PROJET D'INNOVATION"
+  },
+  {
+    "code": "GES867",
+    "title": "INNOVATION ORGANISATIONNELLE : MODÈLES ET"
+  },
+  {
+    "code": "GES885",
+    "title": "SUJETS SPÉCIAUX EN GESTION DE PROJETS"
+  },
+  {
+    "code": "GES886",
+    "title": "SUJETS SPÉCIAUX:PROJETS INTERNATIONAUX ET"
+  },
+  {
+    "code": "GIU802",
+    "title": "GESTION DE PROJETS D'INFRASTRUCTURES"
+  },
+  {
+    "code": "GIU808",
+    "title": "GESTION ET OPTIMISATION DU TRANSPORT URBAIN"
+  },
+  {
+    "code": "GIU813",
+    "title": "TENDANCES NUMÉRIQUES EN GESTION DES"
+  },
+  {
+    "code": "ING800",
+    "title": "OPTIMISATION ET FIABILITÉ"
+  },
+  {
+    "code": "MGA802",
+    "title": "SUJETS SPÉCIAUX I EN AÉRONAUTIQUE"
+  },
+  {
+    "code": "MGA803",
+    "title": "SUJETS SPÉCIAUX II EN AÉRONAUTIQUE"
+  },
+  {
+    "code": "MGA856",
+    "title": "INGÉNIERIE ET PRINCIPES DES ESSAIS EN VOL"
+  },
+  {
+    "code": "MGA961",
+    "title": "PROJET D'APPLICATION"
+  },
+  {
+    "code": "MGC802",
+    "title": "COLLECTE DE DONNÉES EN NUAGES DE POINTS POUR"
+  },
+  {
+    "code": "MGC817",
+    "title": "ING. AVANCÉE PROJETS DE CONCEPTION ET"
+  },
+  {
+    "code": "MGC820",
+    "title": "GESTION ET ASSURANCE DE LA QUALITÉ EN"
+  },
+  {
+    "code": "MGC823",
+    "title": "GESTION DES ÉQUIPES EN CONTEXTE DE PROJET"
+  },
+  {
+    "code": "MGC835",
+    "title": "ÉVALUATION DES CHAUSSÉES"
+  },
+  {
+    "code": "MGC843",
+    "title": "MÉTHODES EXPÉRIMENTALES EN GÉOTECHNIQUE"
+  },
+  {
+    "code": "MGC863",
+    "title": "ÉCOLE D’ÉTÉ EN SCIENCES DU CLIMAT"
+  },
+  {
+    "code": "MGC870",
+    "title": "GESTION DE L'ENTRETIEN DES OUVRAGES"
+  },
+  {
+    "code": "MGC921",
+    "title": "SUJETS SPÉCIAUX I : GÉNIE DE LA CONSTRUCTION"
+  },
+  {
+    "code": "MGC922",
+    "title": "SUJETS SPÉCIAUX II : GÉNIE DE LA CONSTRUCTION"
+  },
+  {
+    "code": "MGL800",
+    "title": "GESTION DE PROJET EN GÉNIE LOGICIEL"
+  },
+  {
+    "code": "MGL801",
+    "title": "EXIGENCES ET SPÉCIFICATIONS DE SYSTÈMES"
+  },
+  {
+    "code": "MGL802",
+    "title": "PRINCIPES & APPL.DE LA CONCEPTION DE LOGICIELS"
+  },
+  {
+    "code": "MGL804",
+    "title": "RÉALISATION ET MAINTENANCE DE LOGICIELS"
+  },
+  {
+    "code": "MGL825",
+    "title": "TÉLÉMATIQUE ET RÉSEAUX"
+  },
+  {
+    "code": "MGL844",
+    "title": "ARCHITECTURE LOGICIELLE"
+  },
+  {
+    "code": "MGR817",
+    "title": "MODÉLISATION, ESTIMATION ET CONTRÔLE POUR LES RÉSEAUX DE TÉLÉCOMM"
+  },
+  {
+    "code": "MGR850",
+    "title": "SÉCURITÉ DE L'INTERNET"
+  },
+  {
+    "code": "MTI515",
+    "title": "SYSTÈMES D'INFORMATION DANS LES ENTREPRISES"
+  },
+  {
+    "code": "MTI820",
+    "title": "ENTREPÔTS DE DONNÉES ET INTELLIGENCE"
+  },
+  {
+    "code": "MTI855",
+    "title": "PHYSIQUE DES JEUX"
+  },
+  {
+    "code": "MTR801",
+    "title": "PLANIFICATION D'UN PROJET DE RECHERCHE EN"
+  },
+  {
+    "code": "MTR871",
+    "title": "LECTURES DIRIGÉES"
+  },
+  {
+    "code": "MTR873",
+    "title": "ÉTUDES DIRIGÉES I"
+  },
+  {
+    "code": "MTR874",
+    "title": "ÉTUDES DIRIGÉES II"
+  },
+  {
+    "code": "MTR892",
+    "title": "PROJET TECHNIQUE"
+  },
+  {
+    "code": "MTR893",
+    "title": "PROJET EN ENTREPRISE"
+  },
+  {
+    "code": "PRE811",
+    "title": "DÉVELOPPEMENT DE CARRIÈRE AUX CYCLES"
+  },
+  {
+    "code": "PRE815",
+    "title": "DÉVELOPPEMENT PROFESSIONNEL"
+  },
+  {
+    "code": "PRE816",
+    "title": "SANTÉ ET SÉCURITÉ AU TRAVAIL"
+  },
+  {
+    "code": "PRE817",
+    "title": "MÉTHODOLOGIE DE RÉDACTION DE RAPPORT DE"
+  },
+  {
+    "code": "SST830",
+    "title": "OUTILS DE LA NEUROSCIENCE EN ERGONOMIE"
+  },
+  {
+    "code": "SYS812",
+    "title": "FATIGUE, ENDOMMAGEMENT ET MÉCANIQUE DE LA"
+  },
+  {
+    "code": "SYS813",
+    "title": "MATÉRIAUX À HAUTE RÉSISTANCE MÉCANIQUE ET"
+  },
+  {
+    "code": "SYS824",
+    "title": "MODÉLISATION ET COMMANDE ROBOTIQUE"
+  },
+  {
+    "code": "SYS825",
+    "title": "CONCEPTION DES ENVIRONNEMENTS"
+  },
+  {
+    "code": "SYS833",
+    "title": "SIGNAUX ET SYSTÈMES NUMÉRIQUES"
+  },
+  {
+    "code": "SYS839",
+    "title": "ENTRAÎNEMENTS ÉLECTRIQUES"
+  },
+  {
+    "code": "SYS848",
+    "title": "STRUCTURE ET PROPRIÉTÉS DES POLYMÈRES"
+  },
+  {
+    "code": "SYS863",
+    "title": "SUJETS SPÉCIAUX I : GÉNIE DE LA PRODUCTION"
+  },
+  {
+    "code": "SYS874",
+    "title": "SIMULATION DES SYSTÈMES MANUFACTURIERS"
+  },
+  {
+    "code": "SYS877",
+    "title": "MATÉRIAUX FONCTIONNELS ET INTELLIGENTS"
+  },
+  {
+    "code": "SYS880",
+    "title": "PRINCIPES ET FONDEMENTS DES JUMEAUX"
+  },
+  {
+    "code": "ETH300",
+    "title": "ENJEUX ÉTHIQUES ET ENVIRONNEMENTAUX DE"
+  },
+  {
+    "code": "MAT001",
+    "title": "COMPLÉMENT DE MATHÉMATIQUES"
+  }
+]
